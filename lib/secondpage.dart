@@ -16,7 +16,6 @@ class SecondPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Passions'),
         backgroundColor: Colors.indigo[900],
       ),
       body: ListView(children: [
